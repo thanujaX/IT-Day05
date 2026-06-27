@@ -79,8 +79,26 @@
 // }
 
 // do while loop
-let j = 0;
-do {
-    console.log(j);
-    j++;
-} while (j <= 10);
+// let j = 0;
+// do {
+//     console.log(j);
+//     j++;
+// } while (j <= 10);
+
+// array
+
+// let numbers = [1, true, 3, "saman", 5];
+
+// for (let i = 0; i < numbers.length; i++) {
+//     console.log(numbers[i]);
+// }
+
+// // object
+let customers = {
+     name: "saman", 
+        age: 23 ,
+        isAfterAL: true ,
+        salary: 10000.00
+    }
+
+    console.log(customers);
